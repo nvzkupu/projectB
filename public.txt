@@ -1,1 +1,3 @@
 This is a file that SHOULD copy over to projectB.
+
+This is a change that SHOULD copy over to projectB.
